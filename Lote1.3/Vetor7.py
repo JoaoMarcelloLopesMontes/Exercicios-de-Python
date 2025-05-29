@@ -1,6 +1,6 @@
 # Exercício baseado apartir do exercício 6 de vetores 
 #- Busca binaria apartir de um vetor ordenado em ordem crescente
-
+#------------------
 
 import random
 
